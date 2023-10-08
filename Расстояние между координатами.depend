@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696598402 source:d:\Курсы\Расстояние между координатами\main.cpp
+	<iostream>
+	<windows.h>
+	<cmath>
+
